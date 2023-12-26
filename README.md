@@ -1,5 +1,6 @@
 # JAVASCRIPT APPLICATION
 
+* [Shopping Cart](https://github.com/lucasrenandns/Shopping-Cart)
 * [Memory Game v2.0](https://github.com/lucasrenandns/Memory_Game_v2.0)
 * [Alarm Clock v2.0](https://github.com/lucasrenandns/Alarm-Clock-v2.0)
 * [Alarm Clock](https://github.com/lucasrenandns/Alarm-Clock)
