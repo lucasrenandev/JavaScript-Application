@@ -1,5 +1,6 @@
 # JAVASCRIPT APPLICATION
 
+* [Custom Password Generator](https://github.com/lucasrenandns/Password-Generator)
 * [Shopping Cart v2.0](https://github.com/lucasrenandns/Shopping-Cart-v2.0)
 * [Shopping Cart](https://github.com/lucasrenandns/Shopping-Cart)
 * [Memory Game v2.0](https://github.com/lucasrenandns/Memory_Game_v2.0)
