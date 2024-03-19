@@ -1,4 +1,4 @@
-# JAVASCRIPT APPLICATION
+# JavaScript/React.js Application
 
 * [Custom Password Generator](https://github.com/lucasrenandns/Password-Generator)
 * [Shopping Cart v2.0](https://github.com/lucasrenandns/Shopping-Cart-v2.0)
