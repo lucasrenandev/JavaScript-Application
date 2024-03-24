@@ -1,4 +1,4 @@
-# JavaScript/React.js Application
+# ⚡ JavaScript/React.js Application ⚡
 
 * [3D Image Slider](https://github.com/lucasrenandev/3d-image-slider)
 * [Custom Password Generator](https://github.com/lucasrenandev/Password-Generator)
