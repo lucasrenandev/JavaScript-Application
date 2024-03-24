@@ -1,5 +1,6 @@
 # JavaScript/React.js Application
 
+* [3D Image Slider](https://github.com/lucasrenandev/3d-image-slider)
 * [Custom Password Generator](https://github.com/lucasrenandev/Password-Generator)
 * [Shopping Cart v2.0](https://github.com/lucasrenandev/Shopping-Cart-v2.0)
 * [Shopping Cart](https://github.com/lucasrenandev/Shopping-Cart)
