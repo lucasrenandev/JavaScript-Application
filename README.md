@@ -11,7 +11,6 @@
 * [Music Player](https://github.com/lucasrenandev/Music-Player)
 * [Weather App v2.0](https://github.com/lucasrenandev/Weather-App-v2.0)
 * [Weather App](https://github.com/lucasrenandev/Weather-App)
-* [Text Rain Animation](https://github.com/lucasrenandev/text-rain-animation)
 * [3D Image Gallery - ReactJS](https://github.com/lucasrenandev/3d-image-gallery-reactjs)
 * [3D Image Gallery](https://github.com/lucasrenandev/3d-image-gallery)
 * [Menu Indicator - ReactJS](https://github.com/lucasrenandev/menu-indicator-reactjs)
