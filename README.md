@@ -1,5 +1,6 @@
 # ⚡ JavaScript/React.js Application ⚡
 
+* [Traffic Light App](https://github.com/lucasrenandev/traffic-light-app)
 * [3D Image Slider](https://github.com/lucasrenandev/3d-image-slider)
 * [Custom Password Generator](https://github.com/lucasrenandev/Password-Generator)
 * [Shopping Cart v2.0](https://github.com/lucasrenandev/Shopping-Cart-v2.0)
