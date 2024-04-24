@@ -1,5 +1,6 @@
 # ⚡ JavaScript/React.js Application ⚡
 
+* [Animated Lamp with Color Picker](https://github.com/lucasrenandev/animatedLampWithColorPicker)
 * [Traffic Light App](https://github.com/lucasrenandev/traffic-light-app)
 * [3D Image Slider](https://github.com/lucasrenandev/3d-image-slider)
 * [Custom Password Generator](https://github.com/lucasrenandev/Password-Generator)
