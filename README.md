@@ -1,5 +1,6 @@
 # ⚡ JavaScript/React.js Application ⚡
 
+* [To-Do List App v2.0](https://github.com/lucasrenandev/to-do-list-app-v2.0)
 * [Animated Lamp with Color Picker](https://github.com/lucasrenandev/animatedLampWithColorPicker)
 * [Traffic Light App](https://github.com/lucasrenandev/traffic-light-app)
 * [3D Image Slider](https://github.com/lucasrenandev/3d-image-slider)
