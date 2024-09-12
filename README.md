@@ -1,5 +1,6 @@
 # ⚡ JavaScript/React.js Application ⚡
 
+* [Currency Converter App](https://github.com/lucasrenandev/Currency-Converter-App)
 * [Amazing Slider](https://github.com/lucasrenandev/Amazing_Slider)
 * [To-Do List App v3.0](https://github.com/lucasrenandev/to-do-list-app-v3.0)
 * [To-Do List App v2.0](https://github.com/lucasrenandev/to-do-list-app-v2.0)
